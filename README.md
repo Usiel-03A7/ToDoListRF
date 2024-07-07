@@ -1,8 +1,3 @@
-# React + Vite
+# To do list with firebase 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TodoList is a task management web app built with React.js, Tailwind CSS, and Firebase. It features task CRUD operations, real-time syncing, customizable UI, task reminders, and Firebase Authentication. Deployed on Firebase Hosting for reliability and performance.
